@@ -10,6 +10,7 @@ title: Pudgy Boston
 brief-intro: The food travels of PFAH + EWOO
 #baseurl: "https://blackmathdavey.github.io/pudgyboston" # the subpath of your site, e.g. /blog
 url: "pudgyboston/" # the base hostname & protocol for your site
+remote_theme: Gaohaoyang/gaohaoyang.github.io
 
 permalink: /:year/:month/:day/:title/
 
