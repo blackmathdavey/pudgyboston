@@ -6,9 +6,6 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
-
 ## Who we are
 
 We're two people who love to spend every paycheck on food and travel to find the best bites around.  
