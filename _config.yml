@@ -7,9 +7,9 @@
 
 # Site settings
 title: Pudgy Boston
-brief-intro: The food travels of PFAH + EWOO, based in Boston
+brief-intro: The food travels of PFAH + EWOO
 #baseurl: "https://blackmathdavey.github.io/pudgyboston" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site
+url: "pudgyboston/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
