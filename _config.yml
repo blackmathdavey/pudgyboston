@@ -26,9 +26,11 @@ instagram_username: pudgyboston
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Timezone
 timezone: America/New_York
