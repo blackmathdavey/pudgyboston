@@ -233,9 +233,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-feed
-  minima
+  jekyll-theme-minimal
   tzinfo-data
 
 BUNDLED WITH
