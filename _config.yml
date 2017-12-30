@@ -17,8 +17,8 @@ title: Pudgy Boston
 email: pudgyboston@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The food travels of PFAH + EWOO
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blackmathdavey.github.io/pudgyboston" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pudgyboston
 github_username:  blackmathdavey
 
