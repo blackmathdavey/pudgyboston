@@ -1,6 +1,6 @@
 ---
 layout: post
-title: homemade gnocchi
+title: Homemade Gnocchi
 category: Cooking
 tags: ['pasta', 'gnocchi']
 author: PFAH
